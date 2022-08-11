@@ -110,7 +110,7 @@ Terriel (lucas.terriel@inria.fr)
 
 |forthebadge made-with-python|
 
-.. |Logo| image:: https://raw.githubusercontent.com/KaMI-tools-project/KaMi-lib/master/docs/static/kamilib_light_logo.png
+.. |Logo| image:: https://github.com/KaMI-tools-project/KaMI-lib-light/blob/4bf97764e346d0ee6af0fa7beb3f29251489c26e/docs/static/kamilib_light_logo.png
     :width: 100px
 .. |Python Version| image:: https://img.shields.io/badge/Python-%3E%3D%203.7-%2313aab7
    :target: https://img.shields.io/badge/Python-%3E%3D%203.7-%2313aab7
