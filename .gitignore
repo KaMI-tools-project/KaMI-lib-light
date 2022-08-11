@@ -1,0 +1,36 @@
+# Virtual envs
+env-kamilib/
+kraken3.0.6py3.8/
+Kamivenvtest38/
+venv/
+
+# Jetbrains (IDE)
+.idea/
+__pycache__
+.pytest_cache
+
+# Vscode
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+Tutoriel.ipynb
+
+# Package utils
+dist/
+build/
+kamilib.egg-info/
+
+# built Cython
+setup_cpp_evaluation.py
+kami_light/metrics/process_c2py.txt
+
+
+# others
+runpackage.txt
+programKami.prof
+test_transcribe.py
+test_huge.py
+datatest/auto_transcript_letter_0607(1).txt
+datatest/manual_transcript_letter_0607(1).txt
+main_test.py
