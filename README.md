@@ -5,7 +5,7 @@ KaMI-lib (Kraken Model Inspector) - Light version
 
 ![Python Version](https://img.shields.io/badge/Python-%3E%3D%203.7-%2313aab7)
 
-[![KaMI-lib Tests](https://github.com/KaMI-tools-project/KaMi-lib/actions/workflows/tests.yml/badge.svg)](https://github.com/KaMI-tools-project/KaMI-lib-light/actions/workflows/tests.yml)
+[![KaMI-lib light CI](https://github.com/KaMI-tools-project/KaMI-lib-light/actions/workflows/tests.yml/badge.svg)](https://github.com/KaMI-tools-project/KaMI-lib-light/actions/workflows/tests.yml)
 [![Version](https://badge.fury.io/py/kamilib.svg)](https://badge.fury.io/py/kamilib-light)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
